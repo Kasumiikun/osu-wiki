@@ -32,7 +32,6 @@ The **osu!catch Solo Carry Tournament** (***SCT***) is a team-based osu!catch to
 | Registration Phase | 2018-05-22/2018-07-22 |
 | Qualifier Stage | 2018-07-28/2018-07-29 |
 | Group Stage | 2018-08-11/2018-08-19 |
-| Round of 16 |  |
 | Quarterfinals | 2018-08-25/2018-08-26 |
 | Semifinals | 2018-09-01/2018-09-02 |
 | Finals | 2018-09-08/2018-09-09 |
