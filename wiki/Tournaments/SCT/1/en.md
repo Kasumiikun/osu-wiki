@@ -1,6 +1,6 @@
 ---
 tags:
-- {ABBR}
+- SCT
 ---
 
 <!--
@@ -19,24 +19,24 @@ Use .png as a default format for images, since .jpg can't handle transparency.
 Alongside this comment, remember to delete all comments across the article after you finish.
 -->
 
-# {TOURNAMENT_NAME}
+# osu!catch Solo Carry Tournament 
 
-![{ABBR} Logo](img/logo.png)
+![SCT Logo](img/logo.png)
 
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
+The **osu!catch Solo Carry Tournament** (***SCT***) is a team-based osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the 1st installment of the osu!catch Solo Carry Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-01-01/2018-01-28 |
-| Live Drawings | 2018-01-29 {DRAW_TIME} |
-| Group Stage |  |
+| Registration Phase | 2018-05-22/2018-07-22 |
+| Qualifier Stage | 2018-07-28/2018-07-29 |
+| Group Stage | 2018-08-11/2018-08-19 |
 | Round of 16 |  |
-| Quarterfinals |  |
-| Semifinals |  |
-| Finals - Week 1 |  |
-| Finals - Week 2 |  |
+| Quarterfinals | 2018-08-25/2018-08-26 |
+| Semifinals | 2018-09-01/2018-09-02 |
+| Finals | 2018-09-08/2018-09-09 |
+| Grand Finals | 2018-09-15 |
 
 <!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
 Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
